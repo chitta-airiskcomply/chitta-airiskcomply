@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, good to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> <br/> I'm Chittaranjan</h1>
 
-<!--
-**chitta-airiskcomply/chitta-airiskcomply** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Full-Stack AI Engineer | Problem Solver | Innovator <br><small> at AI Tech Secure</small></h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+Enthusiastic Full-Stack AI Engineer at **AI Tech Secure**, Specializing in core AI modules, LLM model integration, NLP, cybersecurity, web scraping, text analysis, and risk assessment systems. Leading end-to-end development from AI architecture to secure production deployment.
+
+- 💻 Portfolio: [chittaranjans.vercel.app](https://chittaranjans.vercel.app)
+- 📫 Email: [chittaranjan@airiskcomply.com](mailto:chittaranjan@airiskcomply.com)
+
+---
+
+## 🛠️ Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,py,typescript,react,nextjs,nodejs,flask,fastapi,supabase,mongodb,postgres,redis,docker,kubernetes,nginx,html,css,bash,linux&theme=light)](https://skillicons.dev)
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chittaranjan18)
+[![X/Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/chittaedu18)
+
+---
+
+## 📊 GitHub Stats
+
+
+!https://github-readme-streak-stats.herokuapp.com/?user=chitta-airiskcomply&theme=dark&hide_border=true
+!https://github-readme-stats.vercel.app/api/top-langs/?username=chitta-airiskcomply&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact 
+
+---
