@@ -28,8 +28,7 @@ Enthusiastic Full-Stack AI Engineer at **AI Tech Secure**, Specializing in core 
 
 ## 📊 GitHub Stats
 
-
-!https://github-readme-streak-stats.herokuapp.com/?user=chitta-airiskcomply&theme=dark&hide_border=true
-!https://github-readme-stats.vercel.app/api/top-langs/?username=chitta-airiskcomply&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact 
+[![GitHub Streak](https://streak-stats.demolab.com?user=chitta-airiskcomply&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitta-airiskcomply&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
